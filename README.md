@@ -30,19 +30,19 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 
 # Todolist of projects
 
-> [ + ] Build Theme Less
+> - [ + ] Build Theme Less
 
-> [ - ] Build cards components
+> - [ - ] Build cards components
 
-> [ - ] Build Header component
+> - [ - ] Build Header component
 
-> [ - ] Build Footer component
+> - [ - ] Build Footer component
 
-> [ - ] Build views Pages
+> - [ - ] Build views Pages
 > 
->> _[ - ] _ Dashboard Page
+>> - _[ - ] _ Dashboard Page
 >>
->>_[ - ] _ Shop-SPA Page
+>> - _[ - ] _ Shop-SPA Page
 >>
 >>>_[ - ] _ see [Template 1](https://user-images.githubusercontent.com/5593590/69054815-b0c7f080-0a0c-11ea-880d-7f902cfae00d.png)
 >>>
