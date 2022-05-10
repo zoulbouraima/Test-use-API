@@ -1,4 +1,4 @@
-# myshop-spa
+# spa-shop
 
 ## Project setup
 
