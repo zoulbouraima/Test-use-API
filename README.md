@@ -49,4 +49,4 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 >
 >   - [ - ] see [Template 2](https://devpool.creator-spring.com/listing/devpool-classic-t?product=2&variation=2397&size=281)
 >
-> - [ - ] _ About Page
+> - [ - ]  About Page
