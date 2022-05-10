@@ -30,15 +30,15 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 
 # Todolist of projects
 
-[ + ] Build Theme Less
+> [ + ] Build Theme Less
 
-[ - ] Build cards components
+> [ - ] Build cards components
 
-[ - ] Build Header component
+> [ - ] Build Header component
 
-[ - ] Build Footer component
+> [ - ] Build Footer component
 
-[ - ] Build views Pages
+> [ - ] Build views Pages
 
 _[ - ] _ Dashboard Page
 
