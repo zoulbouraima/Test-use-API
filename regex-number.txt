@@ -1,0 +1,12 @@
+^-?\d*\.?\d+$
+
+Here's a breakdown of what each part of the regular expression means:
+
+^: matches the beginning of the string.
+-?: matches an optional minus sign.
+\d*: matches zero or more digits.
+\.?: matches an optional decimal point.
+\d+: matches one or more digits.
+$: matches the end of the string.
+
+So this regular expression will match numbers such as 123, -456, 3.14, and -0.5, but not non-numeric strings such as abc, 123a, or 1.2.3.
